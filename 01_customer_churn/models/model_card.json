@@ -1,0 +1,67 @@
+{
+  "task": "Customer churn prediction (binary classification)",
+  "best_model": "LogisticRegression",
+  "threshold": 0.4713356999857311,
+  "n_features": 35,
+  "numeric_features": [
+    "age",
+    "tenure_months",
+    "usage_prev_30d_gb",
+    "usage_last_30d_gb",
+    "avg_call_minutes",
+    "support_tickets_last_90d",
+    "avg_ticket_resolution_days",
+    "monthly_charges",
+    "total_charges",
+    "late_payments_last_6m",
+    "usage_trend",
+    "support_contact_frequency",
+    "high_support_burden",
+    "recent_payment_change",
+    "charges_per_tenure_month",
+    "new_month_to_month"
+  ],
+  "categorical_features": [
+    "gender",
+    "region",
+    "contract_type",
+    "payment_method",
+    "tenure_group"
+  ],
+  "class_imbalance_scale_pos_weight": 2.587443946188341,
+  "metrics": [
+    {
+      "name": "LogisticRegression",
+      "roc_auc": 0.7351910965404193,
+      "pr_auc": 0.5296372326155004,
+      "precision": 0.42678571428571427,
+      "recall": 0.7134328358208956,
+      "f1": 0.5340782122905028,
+      "accuracy": 0.6525,
+      "threshold": 0.4713356999857311,
+      "brier": 0.20680389744432623
+    },
+    {
+      "name": "RandomForest",
+      "roc_auc": 0.7182434647571392,
+      "pr_auc": 0.4986668112988124,
+      "precision": 0.40342679127725856,
+      "recall": 0.7731343283582089,
+      "f1": 0.5301944728761515,
+      "accuracy": 0.6175,
+      "threshold": 0.34424850404315566,
+      "brier": 0.18658211024578422
+    },
+    {
+      "name": "GradientBoosting",
+      "roc_auc": 0.6895039254594082,
+      "pr_auc": 0.4991419496497132,
+      "precision": 0.430406852248394,
+      "recall": 0.6,
+      "f1": 0.5012468827930174,
+      "accuracy": 0.6666666666666666,
+      "threshold": 0.2689980523769759,
+      "brier": 0.1836228060827554
+    }
+  ]
+}

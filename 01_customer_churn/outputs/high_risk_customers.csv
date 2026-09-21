@@ -1,0 +1,201 @@
+risk_rank,customer_id,churn_probability,risk_band,contract_type,tenure_months,monthly_charges,usage_trend,support_tickets_last_90d,late_payments_last_6m,suggested_review_reasons
+1,103143,0.9613,Critical,Month-to-month,5,96.0,-0.5657099697885196,1,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 57% recently | 1 support ticket(s) / 90d
+2,104175,0.9535,Critical,Month-to-month,6,67.37,-0.555072463768116,2,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 56% recently | 2 support ticket(s) / 90d
+3,102931,0.9524,Critical,Month-to-month,6,67.87,-0.5042412818096136,3,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 50% recently | High support load (3 tickets / 90d)
+4,105602,0.9521,Critical,Month-to-month,4,15.0,-0.6917040358744394,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 69% recently | 2 support ticket(s) / 90d
+5,103432,0.9507,Critical,Month-to-month,9,99.9,-0.6272784412319297,3,0,Month-to-month contract (no lock-in) | Usage down 63% recently | High support load (3 tickets / 90d)
+6,100478,0.9459,Critical,Month-to-month,8,48.2,-0.6029411764705882,3,1,Month-to-month contract (no lock-in) | Usage down 60% recently | High support load (3 tickets / 90d) | 1 late payment(s) in last 6mo
+7,105030,0.9428,Critical,Month-to-month,10,72.83,-0.7451131687242798,3,0,Month-to-month contract (no lock-in) | Usage down 75% recently | High support load (3 tickets / 90d)
+8,101802,0.9367,Critical,Month-to-month,1,73.06,-0.7111390811831341,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 71% recently | 1 support ticket(s) / 90d
+9,104058,0.9362,Critical,Month-to-month,2,66.88,-0.540983606557377,3,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 54% recently | High support load (3 tickets / 90d)
+10,104767,0.9317,Critical,Month-to-month,8,81.27,-0.0009528346831824476,2,2,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+11,100509,0.9306,Critical,Month-to-month,4,99.56,-0.7400232468035645,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 74% recently | 2 support ticket(s) / 90d
+12,103009,0.9295,Critical,Month-to-month,10,78.61,-0.5805369127516778,0,2,Month-to-month contract (no lock-in) | Usage down 58% recently | 2 late payment(s) in last 6mo
+13,105472,0.9245,Critical,Month-to-month,7,76.7,-0.4056731202161189,2,1,Month-to-month contract (no lock-in) | Usage down 41% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+14,103085,0.9225,Critical,Month-to-month,12,142.002827893254,-0.7517299116430144,0,1,Month-to-month contract (no lock-in) | Usage down 75% recently | 1 late payment(s) in last 6mo
+15,104448,0.9214,Critical,Two year,3,83.88,-0.7517299116430144,1,2,New customer (tenure <= 6 months) | Usage down 75% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+16,103373,0.921,Critical,Month-to-month,37,47.74,-0.6006137658921525,3,2,Month-to-month contract (no lock-in) | Usage down 60% recently | High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+17,100483,0.9207,Critical,Month-to-month,16,113.39,-0.12664576802507835,3,1,Month-to-month contract (no lock-in) | Usage declining (-13%) | High support load (3 tickets / 90d) | 1 late payment(s) in last 6mo
+18,105559,0.9203,Critical,Month-to-month,1,89.29,-0.10431935131763613,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage declining (-10%) | 2 support ticket(s) / 90d
+19,103971,0.9187,Critical,Month-to-month,27,108.86,-0.10260457774269935,2,2,Month-to-month contract (no lock-in) | Usage declining (-10%) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+20,103134,0.9153,Critical,Two year,8,72.02,-0.4725274725274725,2,2,Usage down 47% recently | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+21,100264,0.9134,Critical,Month-to-month,35,94.19,-0.1273077982915403,3,2,Month-to-month contract (no lock-in) | Usage declining (-13%) | High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+22,103231,0.9128,Critical,Month-to-month,10,98.71,-0.11490837048043587,1,2,Month-to-month contract (no lock-in) | Usage declining (-11%) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+23,103154,0.9117,Critical,Month-to-month,4,69.47,-0.6982386174808906,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 70% recently | 1 support ticket(s) / 90d
+24,102666,0.911,Critical,Month-to-month,22,88.8,-0.5942331801086502,2,1,Month-to-month contract (no lock-in) | Usage down 59% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+25,100164,0.9106,Critical,Month-to-month,16,90.37,-0.03297362110311744,2,2,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+26,104008,0.9101,Critical,Month-to-month,17,125.27,-0.5929179978700746,1,1,Month-to-month contract (no lock-in) | Usage down 59% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+27,102447,0.9066,Critical,Month-to-month,16,51.57,-0.47831978319783197,1,2,Month-to-month contract (no lock-in) | Usage down 48% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+28,100019,0.9066,Critical,Month-to-month,33,125.58,-0.6693648816936487,0,2,Month-to-month contract (no lock-in) | Usage down 67% recently | 2 late payment(s) in last 6mo
+29,104173,0.9058,Critical,Month-to-month,1,55.55,-0.3680617393885426,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 37% recently | 2 support ticket(s) / 90d
+30,102822,0.9056,Critical,Month-to-month,23,37.27,-0.6190476190476191,3,1,Month-to-month contract (no lock-in) | Usage down 62% recently | High support load (3 tickets / 90d) | 1 late payment(s) in last 6mo
+31,100721,0.9048,Critical,Month-to-month,4,80.48,-0.06719475553127563,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+32,102792,0.9043,Critical,Month-to-month,3,117.84,-0.12595744680851068,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage declining (-13%) | 2 late payment(s) in last 6mo
+33,104654,0.9033,Critical,Month-to-month,24,74.0,-0.7435387673956263,3,0,Month-to-month contract (no lock-in) | Usage down 74% recently | High support load (3 tickets / 90d)
+34,103450,0.9029,Critical,Month-to-month,15,81.55,-0.047092198581560184,2,2,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+35,103557,0.9028,Critical,Month-to-month,12,105.14,-0.5138083873167405,0,1,Month-to-month contract (no lock-in) | Usage down 51% recently | 1 late payment(s) in last 6mo
+36,103507,0.9025,Critical,Month-to-month,7,104.34,-0.7185494223363287,1,0,Month-to-month contract (no lock-in) | Usage down 72% recently | 1 support ticket(s) / 90d
+37,105867,0.8965,Critical,Month-to-month,7,59.77,0.08377155435978977,2,2,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+38,101037,0.8964,Critical,Month-to-month,8,87.4,-0.5968788001621402,0,1,Month-to-month contract (no lock-in) | Usage down 60% recently | 1 late payment(s) in last 6mo
+39,102919,0.8957,Critical,Month-to-month,35,83.26,-0.7517299116430144,1,2,Month-to-month contract (no lock-in) | Usage down 75% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+40,104042,0.8947,Critical,One year,6,55.7,-0.6218938885157825,1,2,New customer (tenure <= 6 months) | Usage down 62% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+41,102879,0.8936,Critical,Month-to-month,9,42.23,0.061515748031496065,2,2,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+42,101313,0.8934,Critical,Two year,15,127.49,-0.685190747972364,0,2,Usage down 69% recently | 2 late payment(s) in last 6mo
+43,104439,0.8908,Critical,Month-to-month,1,87.58,-0.7517299116430144,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 75% recently | 1 support ticket(s) / 90d
+44,102685,0.8907,Critical,Month-to-month,5,93.02,-0.34541891229789323,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 35% recently | 1 support ticket(s) / 90d
+45,100166,0.8899,Critical,Month-to-month,1,130.88,0.07314263774236889,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d
+46,103964,0.8891,Critical,Month-to-month,10,73.77,-0.45780856423173805,1,1,Month-to-month contract (no lock-in) | Usage down 46% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+47,101113,0.8891,Critical,Two year,6,110.6,-0.6982404692082111,0,2,New customer (tenure <= 6 months) | Usage down 70% recently | 2 late payment(s) in last 6mo
+48,100103,0.8889,Critical,Month-to-month,10,107.99,-0.4826686544912411,1,1,Month-to-month contract (no lock-in) | Usage down 48% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+49,104747,0.8889,Critical,Month-to-month,9,41.29,-0.5341113105924596,2,1,Month-to-month contract (no lock-in) | Usage down 53% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+50,104229,0.8883,Critical,Month-to-month,29,85.48,-0.617984496124031,2,1,Month-to-month contract (no lock-in) | Usage down 62% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+51,100515,0.8877,Critical,Month-to-month,1,67.51,0.13204408400914938,1,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+52,104235,0.8871,Critical,Month-to-month,2,78.38,-0.04580498866213159,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+53,103724,0.8862,Critical,Month-to-month,11,103.54,-0.5450914118912276,1,0,Month-to-month contract (no lock-in) | Usage down 55% recently | 1 support ticket(s) / 90d
+54,101911,0.8856,Critical,Month-to-month,22,75.81,-0.4758432087511395,2,1,Month-to-month contract (no lock-in) | Usage down 48% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+55,101132,0.8849,Critical,Month-to-month,4,52.64,-0.611507370423205,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 61% recently | 1 support ticket(s) / 90d
+56,102831,0.8839,Critical,Month-to-month,22,73.79,-0.3605655930871955,1,2,Month-to-month contract (no lock-in) | Usage down 36% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+57,101386,0.883,Critical,Month-to-month,15,67.79,-0.5397973950795948,0,2,Month-to-month contract (no lock-in) | Usage down 54% recently | 2 late payment(s) in last 6mo
+58,105689,0.8821,Critical,Month-to-month,3,82.16,0.004595588235294074,3,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | High support load (3 tickets / 90d)
+59,105691,0.8818,Critical,Month-to-month,12,68.45,-0.330223880597015,1,1,Month-to-month contract (no lock-in) | Usage down 33% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+60,105048,0.8818,Critical,Month-to-month,6,121.99,-0.7111984282907663,0,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 71% recently
+61,100793,0.8817,Critical,Month-to-month,16,47.38,-0.7517299116430144,1,1,Month-to-month contract (no lock-in) | Usage down 75% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+62,103007,0.8795,Critical,Month-to-month,17,75.95,-0.36938231069156574,2,1,Month-to-month contract (no lock-in) | Usage down 37% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+63,101612,0.8793,Critical,Month-to-month,21,39.54,-0.13699379788398391,2,2,Month-to-month contract (no lock-in) | Usage declining (-14%) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+64,105164,0.8788,Critical,Month-to-month,23,72.59,-0.6349873843566022,2,1,Month-to-month contract (no lock-in) | Usage down 63% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+65,104425,0.877,Critical,Month-to-month,7,39.36,-0.1359724612736661,1,2,Month-to-month contract (no lock-in) | Usage declining (-14%) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+66,100253,0.8769,Critical,Month-to-month,22,31.91,-0.5366985784740355,0,2,Month-to-month contract (no lock-in) | Usage down 54% recently | 2 late payment(s) in last 6mo
+67,105861,0.8768,Critical,One year,22,84.48,-0.3298346055979644,3,2,Usage down 33% recently | High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+68,103620,0.8766,Critical,Month-to-month,30,77.16,-0.7093115273015036,0,2,Month-to-month contract (no lock-in) | Usage down 71% recently | 2 late payment(s) in last 6mo
+69,103699,0.8759,Critical,Month-to-month,18,75.61,-0.4639476854241955,3,0,Month-to-month contract (no lock-in) | Usage down 46% recently | High support load (3 tickets / 90d)
+70,105552,0.8758,Critical,Month-to-month,18,134.31,-0.5786780383795309,1,0,Month-to-month contract (no lock-in) | Usage down 58% recently | 1 support ticket(s) / 90d
+71,102294,0.8756,Critical,Month-to-month,12,81.53,-0.5935808197989172,1,0,Month-to-month contract (no lock-in) | Usage down 59% recently | 1 support ticket(s) / 90d
+72,104204,0.8755,Critical,Month-to-month,34,102.63,-0.31520958083832334,2,1,Month-to-month contract (no lock-in) | Usage down 32% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+73,104000,0.8755,Critical,Month-to-month,20,122.14,-0.024538710291040502,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+74,102978,0.8753,Critical,Two year,2,92.25,-0.3094527363184079,2,1,New customer (tenure <= 6 months) | Usage down 31% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+75,104357,0.8743,Critical,Month-to-month,33,97.34,-0.5701657458563536,1,1,Month-to-month contract (no lock-in) | Usage down 57% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+76,101011,0.8742,Critical,Month-to-month,4,46.17,-0.4167283493708364,3,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 42% recently | High support load (3 tickets / 90d)
+77,104621,0.8742,Critical,One year,3,47.07,-0.02609457092819618,3,2,New customer (tenure <= 6 months) | High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+78,100870,0.8737,Critical,Month-to-month,6,29.53,-0.6360927152317881,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 64% recently | 1 support ticket(s) / 90d
+79,102673,0.872,Critical,Month-to-month,9,89.06,0.07675597393193329,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+80,102486,0.8717,Critical,Month-to-month,6,103.18,-0.62339514978602,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 62% recently | 1 support ticket(s) / 90d
+81,100032,0.8713,Critical,Month-to-month,23,81.73,-0.5743616741247697,3,0,Month-to-month contract (no lock-in) | Usage down 57% recently | High support load (3 tickets / 90d)
+82,105921,0.8707,Critical,Month-to-month,17,107.32,-0.6614130434782608,1,0,Month-to-month contract (no lock-in) | Usage down 66% recently | 1 support ticket(s) / 90d
+83,101213,0.8699,Critical,Month-to-month,45,89.32,-0.5868544600938967,0,2,Month-to-month contract (no lock-in) | Usage down 59% recently | 2 late payment(s) in last 6mo
+84,102679,0.8692,Critical,Month-to-month,3,67.51,-0.6676528599605522,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 67% recently | 1 support ticket(s) / 90d
+85,102285,0.869,Critical,Month-to-month,14,94.53,-0.006309148264984233,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+86,102320,0.869,Critical,Month-to-month,5,102.32,0.01201413427561837,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+87,100318,0.8689,Critical,Month-to-month,9,72.8,0.008632782993417472,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+88,101463,0.8675,Critical,Month-to-month,8,69.91,-0.7101635139467779,0,1,Month-to-month contract (no lock-in) | Usage down 71% recently | 1 late payment(s) in last 6mo
+89,102773,0.8674,Critical,Month-to-month,18,95.02,-0.5917602996254683,2,0,Month-to-month contract (no lock-in) | Usage down 59% recently | 2 support ticket(s) / 90d
+90,105411,0.867,Critical,Month-to-month,2,72.42,-0.7177352206494587,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 72% recently | 1 support ticket(s) / 90d
+91,105455,0.8667,Critical,One year,8,44.61,-0.013742926434923197,3,2,High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+92,100124,0.8653,Critical,Month-to-month,16,82.61,-0.050743494423791766,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+93,105880,0.8652,Critical,Month-to-month,1,26.71,-0.09374999999999992,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+94,102617,0.8651,Critical,Month-to-month,11,41.88,-0.6304347826086956,2,0,Month-to-month contract (no lock-in) | Usage down 63% recently | 2 support ticket(s) / 90d
+95,100089,0.865,Critical,Month-to-month,9,70.84,0.016702977487291243,0,2,Month-to-month contract (no lock-in) | 2 late payment(s) in last 6mo
+96,102852,0.8645,Critical,Month-to-month,3,96.37,-0.06901270772238517,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+97,102299,0.8622,Critical,Month-to-month,18,114.11,-0.6387808041504539,1,0,Month-to-month contract (no lock-in) | Usage down 64% recently | 1 support ticket(s) / 90d
+98,104411,0.8616,Critical,Month-to-month,9,125.0,0.06489675516224185,2,0,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d
+99,102126,0.8616,Critical,Month-to-month,39,67.34,-0.5963162996814846,1,2,Month-to-month contract (no lock-in) | Usage down 60% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+100,104201,0.8616,Critical,Month-to-month,7,87.04,-0.33832769453842443,2,0,Month-to-month contract (no lock-in) | Usage down 34% recently | 2 support ticket(s) / 90d
+101,104822,0.8591,Critical,Month-to-month,11,35.94,-0.0673267326732673,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+102,101687,0.8589,Critical,Month-to-month,16,104.0,-0.03784295175023655,3,0,Month-to-month contract (no lock-in) | High support load (3 tickets / 90d)
+103,103827,0.8585,Critical,Month-to-month,8,126.02,0.04312938816449345,2,0,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d
+104,103272,0.8579,Critical,Month-to-month,4,60.43,-0.3016024115500555,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 30% recently | 2 support ticket(s) / 90d
+105,104508,0.8576,Critical,Month-to-month,4,75.26,-0.7517299116430144,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 75% recently | 1 support ticket(s) / 90d
+106,100912,0.8573,Critical,Month-to-month,12,56.2,-0.5605740818910933,0,1,Month-to-month contract (no lock-in) | Usage down 56% recently | 1 late payment(s) in last 6mo
+107,100301,0.8559,Critical,Month-to-month,3,78.04,-0.09138381201044389,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+108,102057,0.8558,Critical,Two year,18,111.18,0.1304718590108017,3,2,High support load (3 tickets / 90d) | 2 late payment(s) in last 6mo
+109,100268,0.8554,Critical,Month-to-month,15,61.01,-0.13439767779390427,1,2,Month-to-month contract (no lock-in) | Usage declining (-13%) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+110,100802,0.8553,Critical,Month-to-month,4,59.32,-0.3526918185671895,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 35% recently | 2 support ticket(s) / 90d
+111,104192,0.8543,Critical,Month-to-month,21,69.66,-0.5186721991701245,1,1,Month-to-month contract (no lock-in) | Usage down 52% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+112,104738,0.8543,Critical,Month-to-month,47,71.3,-0.524214103653356,2,1,Month-to-month contract (no lock-in) | Usage down 52% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+113,105547,0.8543,Critical,Month-to-month,22,74.36,-0.521862578080636,1,1,Month-to-month contract (no lock-in) | Usage down 52% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+114,101076,0.8534,Critical,Month-to-month,15,83.52,-0.02402001668056722,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+115,105649,0.8533,Critical,Month-to-month,35,86.09,-0.605296343001261,3,0,Month-to-month contract (no lock-in) | Usage down 61% recently | High support load (3 tickets / 90d)
+116,101349,0.8524,Critical,Month-to-month,22,105.38,0.0661553211888782,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+117,101642,0.8514,Critical,Month-to-month,51,102.22,-0.4494191674733785,3,1,Month-to-month contract (no lock-in) | Usage down 45% recently | High support load (3 tickets / 90d) | 1 late payment(s) in last 6mo
+118,102795,0.851,Critical,Month-to-month,28,93.49,-0.646542261251372,0,1,Month-to-month contract (no lock-in) | Usage down 65% recently | 1 late payment(s) in last 6mo
+119,102002,0.8508,Critical,Month-to-month,3,104.12,-0.3677032187670485,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 37% recently | 1 support ticket(s) / 90d
+120,102630,0.8507,Critical,One year,1,59.79,-0.6764444444444444,1,1,New customer (tenure <= 6 months) | Usage down 68% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+121,103526,0.8503,Critical,Month-to-month,29,111.33,-0.7517299116430144,0,1,Month-to-month contract (no lock-in) | Usage down 75% recently | 1 late payment(s) in last 6mo
+122,102804,0.8503,Critical,Month-to-month,8,79.1,-0.553058024046001,1,0,Month-to-month contract (no lock-in) | Usage down 55% recently | 1 support ticket(s) / 90d
+123,100763,0.85,Critical,Month-to-month,30,59.35,-0.7386315342116447,2,0,Month-to-month contract (no lock-in) | Usage down 74% recently | 2 support ticket(s) / 90d
+124,103249,0.8499,Critical,Month-to-month,4,105.15,-0.745619335347432,0,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 75% recently
+125,100521,0.8495,Critical,One year,30,52.03,-0.6997189883580891,2,2,Usage down 70% recently | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+126,103280,0.8491,Critical,Month-to-month,6,58.5,-0.029535864978902926,1,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+127,101429,0.8491,Critical,Month-to-month,11,106.06,-0.587647360328037,1,0,Month-to-month contract (no lock-in) | Usage down 59% recently | 1 support ticket(s) / 90d
+128,103226,0.8484,Critical,Month-to-month,21,42.24,-0.6195622055971184,2,1,Month-to-month contract (no lock-in) | Usage down 62% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+129,103850,0.8484,Critical,Month-to-month,1,97.5,0.11264220477487584,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+130,105657,0.8482,Critical,Month-to-month,32,96.2,-0.7105335913740669,0,1,Month-to-month contract (no lock-in) | Usage down 71% recently | 1 late payment(s) in last 6mo
+131,101884,0.8481,Critical,Month-to-month,16,76.86,-0.4164383561643835,1,1,Month-to-month contract (no lock-in) | Usage down 42% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+132,101715,0.8476,Critical,Month-to-month,6,97.73,-0.41158765989465756,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 41% recently | 1 support ticket(s) / 90d
+133,101665,0.8473,Critical,Month-to-month,4,72.25,0.14015843997562466,3,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | High support load (3 tickets / 90d)
+134,101207,0.8472,Critical,Month-to-month,12,60.56,-0.08353569694026221,3,0,Month-to-month contract (no lock-in) | High support load (3 tickets / 90d)
+135,102015,0.8471,Critical,Month-to-month,31,130.2,-0.7049649904519415,0,1,Month-to-month contract (no lock-in) | Usage down 70% recently | 1 late payment(s) in last 6mo
+136,103942,0.8467,Critical,Month-to-month,8,117.47,-0.029587883057414575,2,0,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d
+137,105481,0.8463,Critical,Month-to-month,44,55.39,-0.556335282651072,1,2,Month-to-month contract (no lock-in) | Usage down 56% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+138,105961,0.8461,Critical,Month-to-month,2,80.64,-0.11331133113311342,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage declining (-11%) | 2 support ticket(s) / 90d
+139,103203,0.846,Critical,Month-to-month,4,61.55,-0.6407766990291263,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 64% recently | 1 support ticket(s) / 90d
+140,102227,0.8458,Critical,Month-to-month,5,57.21,0.06864337936636872,2,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+141,103267,0.845,Critical,Month-to-month,8,84.17,-0.10673528753636152,1,1,Month-to-month contract (no lock-in) | Usage declining (-11%) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+142,102054,0.8448,Critical,Month-to-month,10,77.75,-0.5506756756756757,0,1,Month-to-month contract (no lock-in) | Usage down 55% recently | 1 late payment(s) in last 6mo
+143,105041,0.8446,Critical,Month-to-month,23,73.36,-0.5907404135006186,1,1,Month-to-month contract (no lock-in) | Usage down 59% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+144,101594,0.8442,Critical,Month-to-month,1,54.64,-0.6053492399461228,0,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 61% recently | 1 late payment(s) in last 6mo
+145,102321,0.8441,Critical,One year,2,61.89,0.07673267326732663,2,2,New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+146,105097,0.8429,Critical,Month-to-month,7,77.03,-0.08693826123477533,2,0,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d
+147,104943,0.8425,Critical,Month-to-month,2,68.38,-0.002105263157894692,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+148,105906,0.8417,Critical,Two year,4,74.08,-0.5616012436844151,2,0,New customer (tenure <= 6 months) | Usage down 56% recently | 2 support ticket(s) / 90d
+149,101051,0.8407,Critical,Month-to-month,11,68.36,0.011971830985915446,3,0,Month-to-month contract (no lock-in) | High support load (3 tickets / 90d)
+150,100137,0.8401,Critical,Month-to-month,7,37.2,-0.07329475714536209,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+151,101958,0.8398,Critical,One year,9,77.53,-0.3912643678160919,2,1,Usage down 39% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+152,100526,0.8397,Critical,Month-to-month,28,107.82,0.020828402366863966,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+153,101804,0.8387,Critical,Month-to-month,35,83.47,-0.3642461358996792,2,1,Month-to-month contract (no lock-in) | Usage down 36% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+154,103770,0.8385,Critical,Month-to-month,1,62.91,0.0069218241042345975,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+155,102193,0.8379,Critical,Month-to-month,5,74.16,-0.43834015195791937,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 44% recently | 2 support ticket(s) / 90d
+156,103640,0.8375,Critical,Month-to-month,17,93.37,-0.09433962264150951,2,0,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d
+157,101707,0.8374,Critical,Month-to-month,18,78.27,-0.7061881188118813,1,0,Month-to-month contract (no lock-in) | Usage down 71% recently | 1 support ticket(s) / 90d
+158,103659,0.8365,Critical,Month-to-month,1,64.17,0.04110612855007466,0,2,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 late payment(s) in last 6mo
+159,101090,0.8351,Critical,Month-to-month,30,51.96,-0.49633848657445073,2,1,Month-to-month contract (no lock-in) | Usage down 50% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+160,102536,0.8351,Critical,One year,10,72.09,-0.7019455252918287,0,2,Usage down 70% recently | 2 late payment(s) in last 6mo
+161,101189,0.8346,Critical,Month-to-month,45,106.28,-0.3604221635883905,0,2,Month-to-month contract (no lock-in) | Usage down 36% recently | 2 late payment(s) in last 6mo
+162,100474,0.8345,Critical,Month-to-month,50,64.52,-0.7294056308654848,1,2,Month-to-month contract (no lock-in) | Usage down 73% recently | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+163,102937,0.8336,Critical,One year,11,108.23,-0.44178364987613544,2,0,Usage down 44% recently | 2 support ticket(s) / 90d
+164,101353,0.8331,Critical,Two year,7,81.19,-0.14462896783687204,1,2,Usage declining (-14%) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+165,100018,0.8322,Critical,Month-to-month,6,58.47,-0.462937062937063,0,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 46% recently | 1 late payment(s) in last 6mo
+166,104453,0.8321,Critical,Month-to-month,2,57.23,-0.0987453531598513,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+167,102713,0.8316,Critical,Month-to-month,16,45.29,-0.08394698085419738,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+168,100208,0.8312,Critical,Month-to-month,14,88.87,-0.06177549523110796,3,0,Month-to-month contract (no lock-in) | High support load (3 tickets / 90d)
+169,105748,0.8306,Critical,One year,16,77.82,-0.304144385026738,3,1,Usage down 30% recently | High support load (3 tickets / 90d) | 1 late payment(s) in last 6mo
+170,105398,0.8305,Critical,Month-to-month,11,78.35,0.13366699218750003,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+171,104783,0.83,Critical,Month-to-month,30,142.002827893254,-0.4036764705882353,0,2,Month-to-month contract (no lock-in) | Usage down 40% recently | 2 late payment(s) in last 6mo
+172,104583,0.8295,Critical,Month-to-month,30,113.32,-0.4719507781397032,1,1,Month-to-month contract (no lock-in) | Usage down 47% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+173,105990,0.8291,Critical,Month-to-month,3,101.38,0.005322415557830051,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+174,100453,0.8281,Critical,Month-to-month,1,85.46,0.021656050955414004,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 2 support ticket(s) / 90d
+175,101066,0.8279,Critical,Month-to-month,4,33.8,0.022825008269930575,3,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | High support load (3 tickets / 90d)
+176,101782,0.8276,Critical,Month-to-month,35,76.76,-0.7517299116430144,2,0,Month-to-month contract (no lock-in) | Usage down 75% recently | 2 support ticket(s) / 90d
+177,100297,0.8276,Critical,Month-to-month,14,81.53,-0.07063711911357339,1,1,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+178,101556,0.8275,Critical,Month-to-month,20,72.87,-0.30518909410729983,2,1,Month-to-month contract (no lock-in) | Usage down 31% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+179,102768,0.8266,Critical,Month-to-month,24,94.1,-0.4721115537848605,1,0,Month-to-month contract (no lock-in) | Usage down 47% recently | 1 support ticket(s) / 90d
+180,100317,0.8262,Critical,Month-to-month,9,78.56,-0.2928257686676427,1,0,Month-to-month contract (no lock-in) | Usage declining (-29%) | 1 support ticket(s) / 90d
+181,103375,0.8261,Critical,Month-to-month,23,103.18,-0.41810642709053214,2,0,Month-to-month contract (no lock-in) | Usage down 42% recently | 2 support ticket(s) / 90d
+182,101998,0.8257,Critical,Month-to-month,48,76.78,-0.6484168865435356,3,0,Month-to-month contract (no lock-in) | Usage down 65% recently | High support load (3 tickets / 90d)
+183,105580,0.8257,Critical,Month-to-month,4,87.46,-0.010159010600706732,1,1,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+184,100760,0.8256,Critical,Month-to-month,5,75.81,-0.4711538461538462,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 47% recently | 1 support ticket(s) / 90d
+185,102225,0.8251,Critical,Month-to-month,4,108.96,-0.5515818431911967,0,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage down 55% recently
+186,102077,0.825,Critical,One year,7,100.39,-0.48733302625518193,1,1,Usage down 49% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+187,104393,0.8249,Critical,Month-to-month,14,65.88,-0.02090747330960849,0,2,Month-to-month contract (no lock-in) | 2 late payment(s) in last 6mo
+188,103039,0.8249,Critical,Month-to-month,41,87.49,-0.37040358744394625,2,1,Month-to-month contract (no lock-in) | Usage down 37% recently | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+189,101941,0.8249,Critical,One year,5,64.4,0.13906111603188667,2,2,New customer (tenure <= 6 months) | 2 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+190,104065,0.8242,Critical,One year,17,93.95,-0.6620352250489236,3,0,Usage down 66% recently | High support load (3 tickets / 90d)
+191,103589,0.8241,Critical,Month-to-month,18,84.57,0.04648829431438129,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo
+192,100947,0.8237,Critical,Month-to-month,3,99.23,-0.12476623029655352,2,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | Usage declining (-12%) | 2 support ticket(s) / 90d
+193,103991,0.8236,Critical,Month-to-month,18,75.02,-0.6964980544747081,1,0,Month-to-month contract (no lock-in) | Usage down 70% recently | 1 support ticket(s) / 90d
+194,103760,0.8234,Critical,Month-to-month,15,83.28,-0.09636118598382748,2,1,Month-to-month contract (no lock-in) | 2 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+195,102934,0.8234,Critical,Month-to-month,9,113.9,-0.13799562909772092,0,1,Month-to-month contract (no lock-in) | Usage declining (-14%) | 1 late payment(s) in last 6mo
+196,105126,0.8228,Critical,Month-to-month,2,119.32,0.041162227602905554,1,0,Month-to-month contract (no lock-in) | New customer (tenure <= 6 months) | 1 support ticket(s) / 90d
+197,103882,0.8223,Critical,Month-to-month,32,47.07,-0.7110973341599504,1,1,Month-to-month contract (no lock-in) | Usage down 71% recently | 1 support ticket(s) / 90d | 1 late payment(s) in last 6mo
+198,103256,0.8216,Critical,Month-to-month,7,111.75,-0.1278174037089871,1,0,Month-to-month contract (no lock-in) | Usage declining (-13%) | 1 support ticket(s) / 90d
+199,103779,0.8213,Critical,Month-to-month,11,67.34,-0.1052132701421802,0,2,Month-to-month contract (no lock-in) | Usage declining (-11%) | 2 late payment(s) in last 6mo
+200,102744,0.8198,Critical,Month-to-month,50,123.17,-0.028813559322033885,1,2,Month-to-month contract (no lock-in) | 1 support ticket(s) / 90d | 2 late payment(s) in last 6mo

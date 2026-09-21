@@ -1,0 +1,41 @@
+{
+  "best_model": "LogisticRegression",
+  "metrics_table": [
+    {
+      "name": "LogisticRegression",
+      "roc_auc": 0.7351910965404193,
+      "pr_auc": 0.5296372326155004,
+      "precision": 0.42678571428571427,
+      "recall": 0.7134328358208956,
+      "f1": 0.5340782122905028,
+      "accuracy": 0.6525,
+      "threshold": 0.4713356999857311,
+      "brier": 0.20680389744432623
+    },
+    {
+      "name": "RandomForest",
+      "roc_auc": 0.7182434647571392,
+      "pr_auc": 0.4986668112988124,
+      "precision": 0.40342679127725856,
+      "recall": 0.7731343283582089,
+      "f1": 0.5301944728761515,
+      "accuracy": 0.6175,
+      "threshold": 0.34424850404315566,
+      "brier": 0.18658211024578422
+    },
+    {
+      "name": "GradientBoosting",
+      "roc_auc": 0.6895039254594082,
+      "pr_auc": 0.4991419496497132,
+      "precision": 0.430406852248394,
+      "recall": 0.6,
+      "f1": 0.5012468827930174,
+      "accuracy": 0.6666666666666666,
+      "threshold": 0.2689980523769759,
+      "brier": 0.1836228060827554
+    }
+  ],
+  "val_churn_rate": 0.2791666666666667,
+  "n_customers_scored": 6000,
+  "n_high_risk_flagged": 2532
+}

@@ -1,0 +1,119 @@
+{
+  "k": 10,
+  "best_model": "Hybrid",
+  "train_interactions": 12341,
+  "test_interactions": 3086,
+  "n_users_evaluated": 463,
+  "metrics_all": [
+    {
+      "name": "Hybrid",
+      "precision_at_k": 0.06868250539956804,
+      "recall_at_k": 0.13225427680071308,
+      "ndcg_at_k": 0.11242821550597493,
+      "hit_rate": 0.5075593952483801,
+      "k": 10,
+      "n_users_evaluated": 463
+    },
+    {
+      "name": "ALS (collab. filtering)",
+      "precision_at_k": 0.055939524838012955,
+      "recall_at_k": 0.10660718571085742,
+      "ndcg_at_k": 0.09004295984729421,
+      "hit_rate": 0.43844492440604754,
+      "k": 10,
+      "n_users_evaluated": 463
+    },
+    {
+      "name": "Popularity",
+      "precision_at_k": 0.04535637149028078,
+      "recall_at_k": 0.09498884245104548,
+      "ndcg_at_k": 0.07956367714462959,
+      "hit_rate": 0.3714902807775378,
+      "k": 10,
+      "n_users_evaluated": 463
+    },
+    {
+      "name": "Content-based",
+      "precision_at_k": 0.055939524838012955,
+      "recall_at_k": 0.10244679126968542,
+      "ndcg_at_k": 0.07942460136347931,
+      "hit_rate": 0.42116630669546434,
+      "k": 10,
+      "n_users_evaluated": 463
+    }
+  ],
+  "metrics_strong_signals": [
+    {
+      "name": "Popularity",
+      "precision_at_k": 0.017789757412398924,
+      "recall_at_k": 0.07636375304838917,
+      "ndcg_at_k": 0.05247308341320945,
+      "hit_rate": 0.15633423180592992,
+      "k": 10,
+      "n_users_evaluated": 371
+    },
+    {
+      "name": "Content-based",
+      "precision_at_k": 0.02021563342318059,
+      "recall_at_k": 0.08827493261455525,
+      "ndcg_at_k": 0.05179021727471317,
+      "hit_rate": 0.18867924528301888,
+      "k": 10,
+      "n_users_evaluated": 371
+    },
+    {
+      "name": "ALS (collab. filtering)",
+      "precision_at_k": 0.019676549865229112,
+      "recall_at_k": 0.09355666795019893,
+      "ndcg_at_k": 0.06137496627342445,
+      "hit_rate": 0.18598382749326145,
+      "k": 10,
+      "n_users_evaluated": 371
+    },
+    {
+      "name": "Hybrid",
+      "precision_at_k": 0.025606469002695417,
+      "recall_at_k": 0.12015145680913873,
+      "ndcg_at_k": 0.07556668458548425,
+      "hit_rate": 0.2398921832884097,
+      "k": 10,
+      "n_users_evaluated": 371
+    }
+  ],
+  "segment_analysis": [
+    {
+      "segment": "Cold",
+      "n_users": 2,
+      "users_sampled": 2,
+      "top_recommended_categories": "Toys (4), Sports (4), Electronics (2)",
+      "distinct_categories_recommended": 8,
+      "avg_items_per_user": 10.0
+    },
+    {
+      "segment": "Light",
+      "n_users": 163,
+      "users_sampled": 60,
+      "top_recommended_categories": "Home (112), Fashion (102), Sports (90)",
+      "distinct_categories_recommended": 8,
+      "avg_items_per_user": 10.0
+    },
+    {
+      "segment": "Medium",
+      "n_users": 160,
+      "users_sampled": 60,
+      "top_recommended_categories": "Electronics (101), Books (96), Toys (93)",
+      "distinct_categories_recommended": 8,
+      "avg_items_per_user": 10.0
+    },
+    {
+      "segment": "Heavy",
+      "n_users": 175,
+      "users_sampled": 60,
+      "top_recommended_categories": "Sports (89), Fashion (85), Toys (84)",
+      "distinct_categories_recommended": 8,
+      "avg_items_per_user": 10.0
+    }
+  ],
+  "n_items": 200,
+  "n_cold_start_items": 0
+}

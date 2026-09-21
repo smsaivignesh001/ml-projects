@@ -1,0 +1,52 @@
+{
+  "task": "Predict machine failure within a time window",
+  "prediction_window_hours": 24,
+  "best_model": "GradientBoosting",
+  "threshold": 0.2585402456710881,
+  "n_features": 52,
+  "class_imbalance_scale_pos_weight": 22.11047619047619,
+  "metrics": [
+    {
+      "name": "GradientBoosting",
+      "pr_auc": 0.99954740940112,
+      "roc_auc": 0.9999699565160101,
+      "recall": 0.996,
+      "precision": 0.9822485207100592,
+      "f1": 0.9890764647467726,
+      "threshold": 0.2585402456710881,
+      "true_positives": 498,
+      "false_positives": 9,
+      "false_negatives": 2,
+      "false_alarm_rate": 0.001185926999604691,
+      "brier": 0.0010789851581676055
+    },
+    {
+      "name": "RandomForest",
+      "pr_auc": 0.9995173892183171,
+      "roc_auc": 0.9999675846620107,
+      "recall": 0.994,
+      "precision": 0.9841584158415841,
+      "f1": 0.9890547263681592,
+      "threshold": 0.7162038543127308,
+      "true_positives": 497,
+      "false_positives": 8,
+      "false_negatives": 3,
+      "false_alarm_rate": 0.0010541573329819476,
+      "brier": 0.0019414205594958664
+    },
+    {
+      "name": "LogisticRegression",
+      "pr_auc": 0.9994273568850955,
+      "roc_auc": 0.9999615232573461,
+      "recall": 0.998,
+      "precision": 0.974609375,
+      "f1": 0.9861660079051383,
+      "threshold": 0.7577662545533416,
+      "true_positives": 499,
+      "false_positives": 13,
+      "false_negatives": 1,
+      "false_alarm_rate": 0.0017130056660956648,
+      "brier": 0.0024216070522524984
+    }
+  ]
+}

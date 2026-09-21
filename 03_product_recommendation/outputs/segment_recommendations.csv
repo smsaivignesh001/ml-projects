@@ -1,0 +1,5 @@
+segment,n_users,users_sampled,top_recommended_categories,distinct_categories_recommended,avg_items_per_user
+Cold,2,2,"Toys (4), Sports (4), Electronics (2)",8,10.0
+Light,163,60,"Home (112), Fashion (102), Sports (90)",8,10.0
+Medium,160,60,"Electronics (101), Books (96), Toys (93)",8,10.0
+Heavy,175,60,"Sports (89), Fashion (85), Toys (84)",8,10.0

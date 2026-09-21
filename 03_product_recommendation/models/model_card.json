@@ -1,0 +1,31 @@
+{
+  "task": "Personalized product recommendation",
+  "models": [
+    "popularity",
+    "ALS implicit matrix factorization",
+    "content-based (TF-IDF)",
+    "hybrid blend"
+  ],
+  "blend_weights": {
+    "als": 0.72,
+    "content": 0.1,
+    "popularity": 0.18
+  },
+  "als": {
+    "factors": 32,
+    "iterations": 15,
+    "reg": 0.05,
+    "alpha": 8.0
+  },
+  "evaluation": {
+    "split": "time-based",
+    "k": 10,
+    "metrics": [
+      "Precision@K",
+      "Recall@K",
+      "NDCG@K",
+      "HitRate@K"
+    ]
+  },
+  "best_model": "Hybrid"
+}
